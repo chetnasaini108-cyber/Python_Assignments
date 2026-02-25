@@ -20,12 +20,8 @@ This script collects the user's first and last name separately and prints a form
 * String handling and output formatting.
 
 
-# Python Programming Assignment
+# Assignment 2
 
-## Overview
-This repository contains solutions to two basic Python tasks demonstrating the use of conditionals and loops.
-
----
 
 ## Task 1: Even or Odd Checker
 **Objective:** Determine whether a given integer is even or odd.
@@ -39,7 +35,6 @@ This repository contains solutions to two basic Python tasks demonstrating the u
 Enter an integer: 5  
 5 is an Odd number.
 
----
 
 ## Task 2: Sum of Integers from 1 to 50
 **Objective:** Calculate the sum of numbers from 1 to 50 using a loop.
@@ -52,16 +47,5 @@ Enter an integer: 5
 **Example Output:**
 The sum of integers from 1 to 50 is: 1275
 
----
 
-## Files Included
-- `even_odd.py`
-- `sum_1_to_50.py`
-- `README.md`
 
----
-
-## How to Run
-```bash
-python even_odd.py
-python sum_1_to_50.py
