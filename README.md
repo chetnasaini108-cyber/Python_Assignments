@@ -28,12 +28,8 @@ This script collects the user's first and last name separately and prints a form
 
 **Method:**
 - Takes integer input from the user.
-- Uses an `if-else` statement.
-- Checks divisibility using the modulo operator (`%`).
-
-**Example Output:**
-Enter an integer: 5  
-5 is an Odd number.
+- Uses an 'if-else' statement.
+- Checks divisibility using the modulus operator (`%`).
 
 
 ## Task 2: Sum of Integers from 1 to 50
@@ -44,8 +40,6 @@ Enter an integer: 5
 - Adds each number to a running total.
 - Prints the final sum.
 
-**Example Output:**
-The sum of integers from 1 to 50 is: 1275
 
 
 
