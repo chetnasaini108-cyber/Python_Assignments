@@ -1,5 +1,7 @@
 ## Project Structure
 
+# Assignment 1
+
 * `task_1.py`: A calculator script that performs basic arithmetic.
 * `task_2.py`: A personalized greeting script.
 
@@ -12,8 +14,6 @@ This program takes two numeric inputs from the user and performs the following o
 * **Multiplication** ($*$)
 * **Division** ($/$)
 
-
-
 ### Task 2: Personalized Greeting
 This script collects the user's first and last name separately and prints a formatted welcome message. It demonstrates:
 * Using the `input()` function.
@@ -22,23 +22,22 @@ This script collects the user's first and last name separately and prints a form
 
 # Assignment 2
 
+* `assignment2.py`: A program to check whether a number is odd or even. And a program to calculate the sum of numbers from 1 to 50.
 
-## Task 1: Even or Odd Checker
-**Objective:** Determine whether a given integer is even or odd.
+## Task 1: Even or Odd Check For Number
+**Objective:** Determine whether a given number is even or odd.
 
 **Method:**
 - Takes integer input from the user.
-- Uses an 'if-else' statement.
-- Checks divisibility using the modulus operator (`%`).
+- Try dividing the number by 2 to check whether we get any reminder or not.
 
 
 ## Task 2: Sum of Integers from 1 to 50
-**Objective:** Calculate the sum of numbers from 1 to 50 using a loop.
+**Objective:** Calculate the sum of numbers from 1 to 50 using a for loop.
 
 **Method:**
 - Uses a `for` loop to iterate from 1 to 50.
-- Adds each number to a running total.
-- Prints the final sum.
+- Create a variable and keep adding the value of the iterator to the variable.
 
 
 
